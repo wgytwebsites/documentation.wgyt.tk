@@ -13,4 +13,4 @@ After that go to #get-api and mention @william when asking for an API token.
 Go to https://api.wgyt.tk/about?token=[yourtoken]&username=[ausername] replacing [yourtoken] with your token and [ausername] with anything.
 
 You should get a response of: `{"path":"/about","token":[yourtoken],"user":[ausername],"Body":"Hi there!"}` with [yourtoken] and [ausername] being what you provided earlier.
-# [Go Home](/apiwgyttk)
+# [Go Back](/apiwgyttk)
