@@ -1,3 +1,3 @@
 # Wgyt API
 _________________
-## [Get Started](/apiwgyttk/start]
+## [Get Started](/apiwgyttk/start)
