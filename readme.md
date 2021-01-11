@@ -1,4 +1,4 @@
-# documentation.wgyt.tk/
+# documentation.wgyt.tk
 _________________
 # Projects:
 ## [Wgyt API](/apiwgyttk)
