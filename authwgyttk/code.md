@@ -1,6 +1,6 @@
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[authwgyttk](https://documentation.wgyt.tk/authwgyttk)/code
 _________________
-_How to code projects using Wgyt Auth_
+_How to code projects with Wgyt Auth support_
 ## If you use Express JS
 Add this to the top of your main file:  
 ```
