@@ -1,4 +1,4 @@
-# documentation.wgyt.tk/apiwgyttk/start
+# [documentation.wgyt.tk](https://documentation.wgyt.tk)/[apiwgyttk](https://documentation.wgyt.tk/apiwgyttk)/start
 _________________
 _How to get started with Wgyt API_
 ## Get a token.
@@ -14,4 +14,3 @@ After that go to #get-api and mention @william when asking for an API token.
 Go to https://api.wgyt.tk/about?token=[yourtoken]&username=[ausername] replacing [yourtoken] with your token and [ausername] with anything.
 
 You should get a response of: `{"path":"/about","token":[yourtoken],"user":[ausername],"Body":"Hi there!"}` with [yourtoken] and [ausername] being what you provided earlier.
-# [Go Back](/apiwgyttk)
