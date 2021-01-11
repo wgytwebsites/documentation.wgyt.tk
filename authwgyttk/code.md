@@ -46,7 +46,7 @@ if (true){
 This sets the cookies `id` `name` and `roles` to the values in the query strings.  
 You should also add more code in `authcall.html` that does something like redirecting the user to the page that they were logging in to.  
 ## If you don't use Express JS
-You should deal with the query strings and set cookies based on the content.
+You should deal with the query strings and set cookies based on the content.  
 | Query String | Cookie Name |
 | ----------- | ----------- |
 | id | id |
