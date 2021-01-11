@@ -1,5 +1,5 @@
-# documentation.wgyt.tk
-## The Documentation For All Of @wgyt's projects
+# documentation.wgyt.tk/
+_________________
 # Projects:
 ## [Wgyt API](/apiwgyttk)
 ## [Wgyt Auth](/authwgyttk)
