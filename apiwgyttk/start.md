@@ -1,4 +1,5 @@
-# Get started with the API
+# documentation.wgyt.tk/apiwgyttk/start
+_________________
 _How to get started with Wgyt API_
 ## Get a token.
 _If you use a token provided here, you will be rate limited more than if you get a token from Wgyt_
