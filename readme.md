@@ -6,6 +6,7 @@ _________________
 ## [Wgyt Comments](/commentswgyttk)
 ## [Wgyt.cf](/wgytcf)
 ## [e.wgyt.tk](/ewgyttk)
+## [stats.wgyt.tk(based on upptime)](https://upptime.js.org/docs/)
 _________________
 ## Edit the documentation
 Go to [the github repo](https://github.com/wgytwebsites/documentation.wgyt.tk) and create a fork, make an edit, and make a pull request.  
