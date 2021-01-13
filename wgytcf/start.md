@@ -3,9 +3,6 @@ _________________
 _How to get started with Wgyt.cf_
 ## Fork and run your own instance of wgyt.cf
 ### Step 1: Clone the Github Repo
-#### The Terminal (Reccomended)
-Run `git clone https://github.com/wgytwebsites/wgyt.cf` in your terminal ([Git](https://git-scm.com/downloads "Download Git") is required).
-After that run `cd wgyt.cf` in your terminal.
 #### Run On Repl.it
 [Fork the Repl on Repl.it](https://repl.it/@WilliamHorning/wgytcf#README.md)
 ### Step 2: Install NPM packages
