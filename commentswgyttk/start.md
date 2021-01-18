@@ -1,5 +1,6 @@
 ---
 title: /comments.wgyt.tk/start
+parent: /comments.wgyt.tk
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[commentswgyttk](https://documentation.wgyt.tk/commentswgyttk)/start
 _________________
