@@ -1,5 +1,6 @@
 ---
 title: /auth.wgyt.tk/start
+parent: /auth.wgyt.tk
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[authwgyttk](https://documentation.wgyt.tk/authwgyttk)/start
 _________________
