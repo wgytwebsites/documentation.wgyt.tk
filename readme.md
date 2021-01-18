@@ -1,3 +1,6 @@
+---
+title: /
+---
 # Projects:
 ## [Wgyt API](/apiwgyttk)
 ## [Wgyt Auth](/authwgyttk)
