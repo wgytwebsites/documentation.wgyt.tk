@@ -68,7 +68,9 @@ Add the following code to your head tag:
 	</script>
  ```
  Replacing [thatuserid] for that user's ID.  
+ 
  ### If you need to allow any user:
+ 
  Add the following code to your head tag:
 ```
 	<script>
