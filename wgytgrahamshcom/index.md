@@ -1,5 +1,5 @@
 ---
-title: wgyt.grahamsh.com
+title: /wgyt.grahamsh.com
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/wgytgrahamshcom
 _________________
