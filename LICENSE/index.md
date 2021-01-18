@@ -1,9 +1,8 @@
 ### [documentation.wgyt.tk](https://documentation.wgyt.tk)/LICENSE
-=====================
-
+_________________
 # The MIT License (MIT)
 
-=====================
+_________________
 
 Copyright © 2021 William Horning
 
