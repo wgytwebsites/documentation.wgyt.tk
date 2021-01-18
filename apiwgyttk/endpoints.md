@@ -1,3 +1,6 @@
+---
+title: /api.wgyt.tk/endpoints
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[apiwgyttk](https://documentation.wgyt.tk/apiwgyttk)/endpoints
 _________________
 _To be completed_
