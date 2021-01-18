@@ -1,3 +1,6 @@
+---
+title: /comments.wgyt.tk/start
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[commentswgyttk](https://documentation.wgyt.tk/commentswgyttk)/start
 _________________
 _How to get started with Wgyt Comments_
