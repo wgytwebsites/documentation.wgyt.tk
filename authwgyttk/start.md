@@ -1,3 +1,6 @@
+---
+title: /auth.wgyt.tk/start
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[authwgyttk](https://documentation.wgyt.tk/authwgyttk)/start
 _________________
 _How to get started with Wgyt Auth_
