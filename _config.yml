@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 # just the docs stuff
 
 # logo
-logo: "https://www.wgytt.tk/images/logo.png"
+logo: "https://www.wgyt.tk/images/logo.png"
 # search
 search_enabled: true
 search:
