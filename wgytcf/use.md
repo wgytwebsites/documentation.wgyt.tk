@@ -1,3 +1,6 @@
+---
+title: /wgyt.cf/use
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[wgytcf](https://documentation.wgyt.tk/wgytcf)/use
 _________________
 _How to use Wgyt.cf_
