@@ -1,5 +1,6 @@
 ---
 title: /auth.wgyt.tk/code
+parent: /auth.wgyt.tk
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[authwgyttk](https://documentation.wgyt.tk/authwgyttk)/code
 _________________
