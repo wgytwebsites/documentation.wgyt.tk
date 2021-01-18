@@ -1,5 +1,6 @@
 ---
 title: /api.wgyt.tk/start
+parent: /api.wgyt.tk
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[apiwgyttk](https://documentation.wgyt.tk/apiwgyttk)/start
 _________________
