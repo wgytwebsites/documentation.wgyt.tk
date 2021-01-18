@@ -1,3 +1,6 @@
+---
+title: /auth.wgyt.tk/code
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[authwgyttk](https://documentation.wgyt.tk/authwgyttk)/code
 _________________
 _How to code projects with Wgyt Auth support_
