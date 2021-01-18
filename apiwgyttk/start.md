@@ -1,3 +1,6 @@
+---
+title: /api.wgyt.tk/start
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[apiwgyttk](https://documentation.wgyt.tk/apiwgyttk)/start
 _________________
 _How to get started with Wgyt API_
