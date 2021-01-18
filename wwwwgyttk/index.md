@@ -1,3 +1,6 @@
+---
+title: /www.wgyt.tk
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/wwwwgyttk
 _________________
 ## What is it?
