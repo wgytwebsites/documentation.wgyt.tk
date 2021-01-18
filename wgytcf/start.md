@@ -1,3 +1,6 @@
+---
+title: /wgyt.cf/start
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[wgytcf](https://documentation.wgyt.tk/wgytcf)/start
 _________________
 _How to get started with Wgyt.cf_
