@@ -1,5 +1,6 @@
 ---
 title: /comments.wgyt.tk/embed
+parent: /comments.wgyt.tk
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[commentswgyttk](https://documentation.wgyt.tk/commentswgyttk)/embed
 _________________
