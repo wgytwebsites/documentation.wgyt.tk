@@ -1,3 +1,6 @@
+---
+title: /LICENSE
+---
 ### [documentation.wgyt.tk](https://documentation.wgyt.tk)/LICENSE
 _________________
 # The MIT License (MIT)
