@@ -1,3 +1,6 @@
+---
+title: /comments.wgyt.tk/embed
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[commentswgyttk](https://documentation.wgyt.tk/commentswgyttk)/embed
 _________________
 _How to embed Wgyt Comments_
