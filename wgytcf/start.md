@@ -1,5 +1,6 @@
 ---
 title: /wgyt.cf/start
+parent: /wgyt.cf
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[wgytcf](https://documentation.wgyt.tk/wgytcf)/start
 _________________
