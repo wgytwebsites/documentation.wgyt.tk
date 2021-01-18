@@ -21,7 +21,7 @@ aux_links_new_tab: true
 # anchor links
 heading_anchors: true
 # footer info
-footer_content: "Copyright &copy; 2021 William Horning and Contributors. All content is under the <a href=\"https://documentation.wgyt.tk/LICENSE/">MIT license.</a>"
+footer_content: "Copyright 2021 William Horning and Contributors. All content is under the <a href=\"https://documentation.wgyt.tk/LICENSE/">MIT license.</a>"
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/wgytwebsites/wgyt-documentation"
