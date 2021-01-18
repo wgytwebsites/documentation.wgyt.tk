@@ -1,3 +1,6 @@
+---
+title: /comments.wgyt.tk
+---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/commentswgyttk
 _________________
 ## [Get Started](/commentswgyttk/start)
