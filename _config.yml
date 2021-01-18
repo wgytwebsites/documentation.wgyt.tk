@@ -1,2 +1,31 @@
 remote_theme: pmarsceill/just-the-docs
+# just the docs stuff
+
+# logo
+logo: "https://www.wgytt.tk/images/logo.png"
+# search
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: true
+# aux links
+aux_links:
+  "Look at all of the websites on GitHub":
+    - "//github.com/wgytwebsites/"
+aux_links_new_tab: true
+# anchor links
+heading_anchors: true
+# footer info
+footer_content: "Copyright &copy; 2021 William Horning and Contributors. All content is under the <a href=\"https://documentation.wgyt.tk/LICENSE/">MIT license.</a>"
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/wgytwebsites/wgyt-documentation"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+# colors
 color_scheme: dark
