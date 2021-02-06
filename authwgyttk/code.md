@@ -7,7 +7,7 @@ _________________
 _How to code projects with Wgyt Auth support_
 ## If you use Express JS
 Add this to the top of your main file:  
-```
+```javascript
 const mustacheExpress = require('mustache-express');
 const cookieParser = require('cookie-parser');
 app.use(cookieParser());
@@ -18,7 +18,7 @@ app.use(express.json());
 app.use('/data', express.static(`${__dirname}/data`));
 ```
 You will also need to add this below that code you added
-```
+```javascript
 // Auth
 app.get('/auth', (req, res) => {
 	res.sendFile(`${__dirname}/views/auth.html`)
@@ -32,12 +32,12 @@ app.get('/auth/callback', (req, res) => {
 })
 ```
 You will also need to create a file in the views folder called `auth.html` that contains:
-```
+```html
 <meta http-equiv="refresh" content="0;url=https://auth.wgyt.tk/?url=[yoursite]" />
 ```
 replacing [yoursite] with your website's URL.  
 You will also need to create a file in the views folder called `authcall.html` that contains:
-```
+```html
 <script>
 document.cookie = "id={{userid}}; expires=Thu, 18 Dec 2030 12:00:00 UTC; path=/";
 document.cookie = "name={{username}}; expires=Thu, 18 Dec 2030 12:00:00 UTC; path=/";
@@ -61,7 +61,7 @@ You should deal with the query strings and set cookies based on the content.
 ## How to check for login (using html)  
 ### If you need to allow only one user:
 Add the following code to your head tag:
-```
+```html
 	<script>
 		if ('{{userid}}'===''){
 				window.location.assign('https://auth.wgyt.tk/?url=wgyt.cf/dash')
@@ -76,7 +76,7 @@ Add the following code to your head tag:
  ### If you need to allow any user:
  
  Add the following code to your head tag:
-```
+```html
 	<script>
 		if ('{{userid}}'===''){
 				window.location.assign('https://auth.wgyt.tk/?url=wgyt.cf/dash')
