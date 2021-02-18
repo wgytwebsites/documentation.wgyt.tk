@@ -18,7 +18,7 @@ module.exports = function(host,res,req,errornumber,errordesc,version,ejs){
 	ejs.renderFile('modules/filename/index.ejs', {errornumber: errornumber,errordesc:errordesc,url:`https://${host}${req.url}`,host:host||wgytcraft,timestamp:0,version:version}, {}, function (err, template) { if (err) { throw err; } else { res.end(template); } }); 
 }
 ```
-```ejs 
+```html 
 <!-- index.ejs -->
 your website here
 ```
