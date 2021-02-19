@@ -1,5 +1,6 @@
 ---
 title: /wgytcraft.cf/errors
+parent: /wgytcraft.cf
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[wgytcraft.cf](https://documentation.wgyt.tk/wgytcraft.cf)/errors
 _________________
