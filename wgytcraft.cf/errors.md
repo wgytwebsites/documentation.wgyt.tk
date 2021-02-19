@@ -1,7 +1,7 @@
 ---
 title: /wgytcraft.cf/errors
 ---
-# [documentation.wgyt.tk](https://documentation.wgyt.tk)/wgytcraft.cf/errors
+# [documentation.wgyt.tk](https://documentation.wgyt.tk)/[wgytcraft.cf](https://documentation.wgyt.tk/wgytcraft.cf)/errors
 _________________
 ## Error Codes:
 Most Errors Codes Are Just HTTP status codes with an extra description.
