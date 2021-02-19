@@ -1,7 +1,6 @@
 ---
 title: /wgytcraft.cf/modules
 parent: /wgytcraft.cf
-has_children: true
 ---
 # [documentation.wgyt.tk](https://documentation.wgyt.tk)/[wgytcraft.cf](https://documentation.wgyt.tk/wgytcraft.cf)/modules
 -----------
