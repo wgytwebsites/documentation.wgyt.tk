@@ -1,8 +1,8 @@
 ---
-title: /wgytcraft.cf/modules/build
-parent: /wgytcraft.cf/modules
+title: /wgytcraft.cf/build_modules
+parent: /wgytcraft.cf
 ---
-# [documentation.wgyt.tk](https://documentation.wgyt.tk)/[wgytcraft.cf](https://documentation.wgyt.tk/wgytcraft.cf)/[modules](https://documentation.wgyt.tk/wgytcraft.cf/modules)/build
+# [documentation.wgyt.tk](https://documentation.wgyt.tk)/[wgytcraft.cf](https://documentation.wgyt.tk/wgytcraft.cf)/build_modules
 ## Example error page:
 You need to create a github repo and add a file:
 
