@@ -1,6 +1,6 @@
 # documentation.wgyt.tk
 The Documentation For All Of @wgyt's projects
-## trying cf pages
+## trying cf pages, pls work
 # Projects:
 ## [Wgyt API](/apiwgyttk)
 ## [Wgyt Auth](/authwgyttk)
