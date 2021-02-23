@@ -1,5 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
-# just the docs stuff
+theme: "just-the-docs"
 
 # logo
 logo: "https://www.wgyt.tk/images/logo.png"
