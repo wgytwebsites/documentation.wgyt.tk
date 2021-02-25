@@ -1,5 +1,4 @@
-theme: "just-the-docs"
-
+remote_theme: rundocs/jekyll-rtd-theme
 # logo
 logo: "https://www.wgyt.tk/images/logo.png"
 # search
